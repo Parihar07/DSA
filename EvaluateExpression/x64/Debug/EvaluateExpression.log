@@ -1,0 +1,3 @@
+﻿  ee.cpp
+C:\codebreaker\codebreaker\EvaluateExpression\ee.cpp(11,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EvaluateExpression.vcxproj -> C:\codebreaker\codebreaker\ScalerProblem\x64\Debug\EvaluateExpression.exe
