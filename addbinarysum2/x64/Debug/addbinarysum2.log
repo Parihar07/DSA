@@ -1,0 +1,7 @@
+﻿  abs2.cpp
+C:\codebreaker\codebreaker\addbinarysum2\abs2.cpp(8,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\addbinarysum2\abs2.cpp(9,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\addbinarysum2\abs2.cpp(15,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\addbinarysum2\abs2.cpp(27,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\addbinarysum2\abs2.cpp(45,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  addbinarysum2.vcxproj -> C:\codebreaker\codebreaker\ScalerProblem\x64\Debug\addbinarysum2.exe
