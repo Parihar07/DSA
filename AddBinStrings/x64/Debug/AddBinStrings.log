@@ -1,0 +1,7 @@
+﻿  abs.cpp
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(7,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(8,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(12,22): error C2513: 'unsigned __int64': no variable declared before '='
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(17,13): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(26,13): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\codebreaker\codebreaker\AddBinStrings\abs.cpp(30,11): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
